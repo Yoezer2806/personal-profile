@@ -8,7 +8,7 @@ This project is a simple HTML page for a personal profile. It includes sections 
 ## Sections
 
 - **About Me**: A brief introduction or biography.
-- **Skills**: A list of skills or expertise.
+- **Srevice**: A list of service that I can provide to others.
 - **Contact**: Links to social media or a contact form.
 
 ## Usage
